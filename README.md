@@ -24,7 +24,7 @@ Welcome to our team’s project repository! Here you can find information about 
 | Marklewis mutugi        | [GitHub](https://github.com/lewiii254/Portfolio)     | [Portfolio](https://lewiii254.github.io/Portfolio/) |
 | Betty Mukami    | [GitHub](https://github.com/Bettylmm/myportfolio-group18.git) | [Portfolio](https://github.com/Bettylmm/myportfolio-group18.git) |
 | Patel Hadaisa     | [GitHub](https://github.com/PatelFamily21/patelfamily21.github.io)  | [Portfolio](http://patelfamily21.github.io) |
-| Ivy Chelang'a     | [GitHub](https://github.com/dianamiller)  | [Portfolio](https://github.com/IvyG111/Portfolio.git) |
+| Ivy Chelang'a     | [https://github.com/IvyG111/Portfolio.git)  | [Portfolio](https://github.com/IvyG111/Portfolio.git) |
 | Veronica Wendy     | [GitHub](https://github.com/V4Me-star/hackathon-1.git)  | [Portfolio](https://github.com/V4Me-star/hackathon-1.git) |
 | Ahmed Adan     | [GitHub](https://github.com/Noor3600/SafaricomHookHackathon1-Group18.git)  | [Portfolio](https://github.com/Noor3600/SafaricomHookHackathon1-Group18.git) |
 | Cassandra Mghoi Mwawasi | [GitHub](https://github.com/Ceemghoi/Portolio.git)  | [Portfolio](https://github.com/Ceemghoi/Portolio.git) |
