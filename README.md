@@ -21,7 +21,7 @@ Welcome to our team’s project repository! Here you can find information about 
 | Name             | GitHub Link                              | Demo Link                         |
 |------------------|------------------------------------------|------------------------------------|
 | Lewis Manyasa    | [GitHub](https://github.com/kinglui2/my-personal-website-portfolio-Group-18.git) | [Portfolio](https://kinglui2.github.io/my-personal-website-portfolio-Group-18/) |
-| Marklewis mutugi        | [GitHub](https://github.com/lewiii254/Portfolio)     | [Portfolio](https://lewiii254.github.io/Portfolio/) |
+| Marklewis mutugi        | [GitHub](https://github.com/lewiii254/Marklewis-portfolio-group-18)     | [Portfolio](https://lewiii254.github.io/Marklewis-portfolio-group-18/) |
 | Betty Mukami    | [GitHub](https://github.com/Bettylmm/myportfolio-group18.git) | [Portfolio](https://github.com/Bettylmm/myportfolio-group18.git) |
 | Patel Hadaisa     | [GitHub](https://github.com/PatelFamily21/patelfamily21.github.io)  | [Portfolio](http://patelfamily21.github.io) |
 | Ivy Chelang'a     | [Github](https://github.com/IvyG111/Portfolio.git)  | [Portfolio](https://github.com/IvyG111/Portfolio.git) |
