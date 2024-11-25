@@ -16,6 +16,7 @@ Welcome to our team’s project repository! Here you can find information about 
 8. **Cassandra Mghoi Mwawasi**
 9. **Arnold Kiprotich**
 10. **Hawaa Wangari**
+11. **John Khaemba**
 
 
 ## Group Members' Name and Project
@@ -32,6 +33,8 @@ Welcome to our team’s project repository! Here you can find information about 
 | Cassandra Mghoi Mwawasi | [GitHub](https://github.com/Ceemghoi/Portolio.git)  | [Portfolio](https://github.com/Ceemghoi/Portolio.git) |
 | Arnold Kiprotich | [Github](https://github.com/arnold792/portfolio.git)  | [Portfolio](https://portfolio-git-main-arnoldkiprotich50-gmailcoms-projects.vercel.app/) |
 | Hawaa Wangari | [Github](https://github.com/iconic-girl/portfolio)  | [Portfolio](https://github.com/iconic-girl/portfolio) |
+| John Khaemba | [Github](https://github.com/jhnnyjava/Portfolio.git) | [Portfolio](https://safaricom-hook-cohort-peer-to-peer.onrender.com/) |
+
 
 ---
 
