@@ -16,9 +16,7 @@ Welcome to our team’s project repository! Here you can find information about 
 8. **Cassandra Mghoi Mwawasi**
 
 
-## Group Members' Projects
-
-## Group Members
+## Group Members' Name and Project
 
 | Name             | GitHub Link                              | Demo Link                         |
 |------------------|------------------------------------------|------------------------------------|
