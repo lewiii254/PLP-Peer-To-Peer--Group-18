@@ -30,8 +30,8 @@ Welcome to our team’s project repository! Here you can find information about 
 | Veronica Wendy     | [GitHub](https://github.com/V4Me-star/hackathon-1.git)  | [Portfolio](https://github.com/V4Me-star/hackathon-1.git) |
 | Ahmed Adan     | [GitHub](https://github.com/Noor3600/SafaricomHookHackathon1-Group18.git)  | [Portfolio](https://github.com/Noor3600/SafaricomHookHackathon1-Group18.git) |
 | Cassandra Mghoi Mwawasi | [GitHub](https://github.com/Ceemghoi/Portolio.git)  | [Portfolio](https://github.com/Ceemghoi/Portolio.git) |
-| Arnold Kiprotich | https://github.com/arnold792/portfolio.git  | https://portfolio-git-main-arnoldkiprotich50-gmailcoms-projects.vercel.app/ |
-| Hawaa Wangari | https://github.com/iconic-girl/portfolio  | https://github.com/iconic-girl/portfolio |
+| Arnold Kiprotich | [Github](https://github.com/arnold792/portfolio.git)  | [Portfolio](https://portfolio-git-main-arnoldkiprotich50-gmailcoms-projects.vercel.app/) |
+| Hawaa Wangari | [Github](https://github.com/iconic-girl/portfolio)  | [Portfolio](https://github.com/iconic-girl/portfolio) |
 
 ---
 
