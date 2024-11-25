@@ -15,6 +15,7 @@ Welcome to our team’s project repository! Here you can find information about 
 7. **Ahmed Adan**
 8. **Cassandra Mghoi Mwawasi**
 9. **Arnold Kiprotich**
+10. **Hawaa Wangari**
 
 
 ## Group Members' Name and Project
@@ -30,6 +31,8 @@ Welcome to our team’s project repository! Here you can find information about 
 | Ahmed Adan     | [GitHub](https://github.com/Noor3600/SafaricomHookHackathon1-Group18.git)  | [Portfolio](https://github.com/Noor3600/SafaricomHookHackathon1-Group18.git) |
 | Cassandra Mghoi Mwawasi | [GitHub](https://github.com/Ceemghoi/Portolio.git)  | [Portfolio](https://github.com/Ceemghoi/Portolio.git) |
 | Arnold Kiprotich | https://github.com/arnold792/portfolio.git  | https://portfolio-git-main-arnoldkiprotich50-gmailcoms-projects.vercel.app/ |
+| Hawaa Wangari | https://github.com/iconic-girl/portfolio  | https://github.com/iconic-girl/portfolio |
+
 ---
 
 ## Completed Tasks
