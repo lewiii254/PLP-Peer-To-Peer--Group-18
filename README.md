@@ -29,7 +29,7 @@ Welcome to our team’s project repository! Here you can find information about 
 | Patel Hadaisa     | [GitHub](https://github.com/PatelFamily21/patelfamily21.github.io)  | [Portfolio](http://patelfamily21.github.io) |
 | Ivy Chelang'a     | [Github](https://github.com/IvyG111/Portfolio.git)  | [Portfolio](https://github.com/IvyG111/Portfolio.git) |
 | Veronica Wendy     | [GitHub](https://github.com/V4Me-star/hackathon-1.git)  | [Portfolio](https://github.com/V4Me-star/hackathon-1.git) |
-| Ahmed Adan     | [GitHub](https://github.com/Noor3600/SafaricomHookHackathon1-Group18.git)  | [Portfolio](https://github.com/Noor3600/SafaricomHookHackathon1-Group18.git) |
+| Ahmed Adan     | [GitHub](https://github.com/Noor3600/SafaricomHookHackathon1-Group18.git)  | [Portfolio](https://noor3600.github.io/SafaricomHookHackathon1-Group18/)|
 | Cassandra Mghoi Mwawasi | [GitHub](https://github.com/Ceemghoi/Portolio.git)  | [Portfolio](https://github.com/Ceemghoi/Portolio.git) |
 | Arnold Kiprotich | [Github](https://github.com/arnold792/portfolio.git)  | [Portfolio](https://portfolio-git-main-arnoldkiprotich50-gmailcoms-projects.vercel.app/) |
 | Hawaa Wangari | [Github](https://github.com/iconic-girl/portfolio)  | [Portfolio](https://github.com/iconic-girl/portfolio) |
